@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Reliability Layer">
+  <rect width="64" height="64" rx="4" fill="#0b0d0b"/>
+  <path fill="#c8f97a" d="M8 8H44L56 20V32H44V24L40 20H20V56H8V8ZM28 32H40V44H56V56H28V32Z"/>
+</svg>
